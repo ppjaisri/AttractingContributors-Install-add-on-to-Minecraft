@@ -21,4 +21,4 @@ so anyone can recommend the mods that can improve Minecraft. <br/>
 The mods can be Graphics mods, Gameplay mods, etc.
 
 # List of Mods
-1. 
+1. Evil Wandering Trader
