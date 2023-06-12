@@ -15,9 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Goal of My Project
+I would like to make a Minecraft totally **EPIC !!!** <br>
+so anyone can recommend the mods that can improve Minecraft. <br/>
+The mods can be Graphics mods, Gameplay mods, etc.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Mods
+1. 
