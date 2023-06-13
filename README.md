@@ -10,6 +10,7 @@ Examples:
 
 # List of Ramens
 * Karakara uo(辛辛魚)
+* Namae no nai ramenya(名前のないラーメン屋)
 * Ichiran(一蘭)
 * Tenkaippin(天下一品)
 * Kumamoto Mayu Ramen(マー油入り熊本ラーメン)
