@@ -18,4 +18,5 @@ Examples:
 * 神豚
 * The original tomato ramen sanmi(元祖トマトラーメン三味)
 * shoyu Ramen 
+* atashino ramen tabetadesho 2
 * The Most Deserted Ramen Bar in the World(世界一暇なラーメン屋)
