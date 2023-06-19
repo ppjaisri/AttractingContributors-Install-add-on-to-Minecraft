@@ -35,5 +35,6 @@ Please tell me a singer / group / band that you enjoy.
 10. BUMP OF CHICKEN
 11. amazarashi
 12. Oasis
-13. Sumika
-14. Akarasamana Yozora
+13. Perfume
+14. Sumika
+15. Akarasamana Yozora
