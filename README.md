@@ -36,3 +36,4 @@ Please tell me a singer / group / band that you enjoy.
 11. amazarashi
 12. Oasis
 13. Sumika
+14. Akarasamana Yozora
