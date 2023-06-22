@@ -38,3 +38,4 @@ Please tell me a singer / group / band that you enjoy.
 13. Perfume
 14. Sumika
 15. Akarasamana Yozora
+16. Mr BIG
