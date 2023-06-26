@@ -21,3 +21,4 @@ Examples:
 * Chinese-Style Soba(中華そば)
 * atashino ramen tabetadesho 2
 * The Most Deserted Ramen Bar in the World(世界一暇なラーメン屋)
+* Nissin Thai tom yum kung (have in Japan) (with Thai flag on the cup)
