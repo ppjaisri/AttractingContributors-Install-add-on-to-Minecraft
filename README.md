@@ -18,6 +18,6 @@ So please tell me your favorite game. Any kind (for example, it can be a board g
 9. mahjong
 10. Valorant
 11. The World Ends With You
-
+12. Pokemon TCG
 
 
