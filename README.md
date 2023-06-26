@@ -39,3 +39,4 @@ Please tell me a singer / group / band that you enjoy.
 14. Sumika
 15. Akarasamana Yozora
 16. Mr BIG
+17. Oh Hayoung
