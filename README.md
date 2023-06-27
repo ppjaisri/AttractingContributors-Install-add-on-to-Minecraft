@@ -24,3 +24,4 @@ The mods can be Graphics mods, Gameplay mods, etc.
 1. ComputerCraft (https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 2. Evil Wandering Trader
 3. Bookshelf from here (https://www.curseforge.com/minecraft/mc-mods/bookshelf)
+4. [Cocricot](https://cocricot.pics/)
