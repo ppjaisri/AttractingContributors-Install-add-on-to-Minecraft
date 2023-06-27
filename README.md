@@ -21,7 +21,10 @@ so anyone can recommend the mods that can improve Minecraft. <br/>
 The mods can be Graphics mods, Gameplay mods, etc.
 
 # List of Mods
-1. ComputerCraft (https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
-2. Evil Wandering Trader
-3. Bookshelf from here (https://www.curseforge.com/minecraft/mc-mods/bookshelf)
-4. [Cocricot](https://cocricot.pics/)
+
+| Mod name                   | Link                                                               |
+| -------------------------- | ------------------------------------------------------------------ |
+| 1. `ComputerCraft`         | https://www.curseforge.com/minecraft/mc-mods/cc-tweaked            |
+| 2. `Evil Wandering Trader` | https://www.curseforge.com/minecraft/mc-mods/evil-wandering-trader |
+| 3. `Bookshelf`             | https://www.curseforge.com/minecraft/mc-mods/bookshelf             |
+| 4. `Cocricot`              | https://cocricot.pics/                                             |
