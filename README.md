@@ -7,3 +7,4 @@ Please tell me your name Please! PLEASE! PLEASE! PLEASE! PLEASE! PLEASE! PLEASE!
 * Takeshi Okada
 * Kairi Sasazaki 
 * Kohei Sawano
+* kazuki
