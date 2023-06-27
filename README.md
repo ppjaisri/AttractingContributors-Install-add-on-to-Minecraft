@@ -8,3 +8,4 @@ Please tell me your name Please! PLEASE! PLEASE! PLEASE! PLEASE! PLEASE! PLEASE!
 * Kairi Sasazaki 
 * Kohei Sawano
 * Yuina Kataoka
+* kazuki
