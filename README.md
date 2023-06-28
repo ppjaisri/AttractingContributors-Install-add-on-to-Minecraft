@@ -28,3 +28,4 @@ The mods can be Graphics mods, Gameplay mods, etc.
 | 2. `Evil Wandering Trader` | https://www.curseforge.com/minecraft/mc-mods/evil-wandering-trader |
 | 3. `Bookshelf`             | https://www.curseforge.com/minecraft/mc-mods/bookshelf             |
 | 4. `Cocricot`              | https://cocricot.pics/                                             |
+| 5. `Flan's mod`            | https://www.flansmod.com/                                          |
