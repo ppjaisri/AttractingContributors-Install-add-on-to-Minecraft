@@ -10,5 +10,5 @@ You can answer your favorite game.
 5. メタルファイト ベイブレード ガチンコスタジアム
 6. Titan Fall2
 7. UNDERTALE
-8. 
+8. valorant
 
