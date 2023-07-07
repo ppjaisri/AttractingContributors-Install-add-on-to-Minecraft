@@ -31,4 +31,5 @@ The mods can be Graphics mods, Gameplay mods, etc.
 | 5. `Flan's mod`            | https://www.flansmod.com/                                          |
 | 6. `Enchantment Descriptions`|https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions|
 | 7. `Pixelmon MOD`          | https://www.9minecraft.net/pixelmon/                               |
+| 8. `OptiFine`              | https://optifine.net/home                                          |
  
